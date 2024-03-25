@@ -344,7 +344,7 @@ a:active {
 }
 
 .header-logo {
-    position: var(--header-logo-link-position);
+    position: var(--header-logo-logo-position);
 }
 
 .header-logo a {
