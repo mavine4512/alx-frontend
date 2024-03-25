@@ -335,7 +335,7 @@ a:active {
     color: var(--nav-item-link-hover);
 }
 
-.nav .nav-link::before{
+.nav .nav-link::before {
     content: "";
     position: absolute;
     top: 0;
@@ -471,7 +471,7 @@ ul.row {
 }
 
 .row::after {
-    content: '';
+    content: "";
     display: table;
     clear: both
 }
