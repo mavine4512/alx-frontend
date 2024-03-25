@@ -355,7 +355,7 @@ a:active {
 }
 
 .header {
-    padding: var(--nav-item-link-hover);
+    padding: var(--header-padding);
 }
 
 .header-logo {
@@ -471,7 +471,7 @@ ul.row {
 }
 
 .row::after {
-    content: none;
+    content: '';
     display: table;
     clear: both
 }
